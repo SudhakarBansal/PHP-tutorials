@@ -6,11 +6,13 @@
     <title>If else if else</title>
 </head>
 <body>
-    <h1>If else if else statement in php</h1>
+    <h1>While loop in php</h1>
     <?php 
-        $a = 5;
-        $b = 10;
-        echo ($a > $b)?$a : $b;               
+        $a = 1;
+        while ($a <= 10) {
+            echo "$a<br>";  
+            $a++;             
+        }
     ?>
 </body>
 </html>
