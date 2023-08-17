@@ -6,7 +6,7 @@
     <title>If else if else</title>
 </head>
 <body>
-    <h1>ternary operator in php</h1>
+    <h1>If else if else statement in php</h1>
     <?php 
         $a = 5;
         $b = 10;
